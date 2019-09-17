@@ -1,0 +1,16 @@
+#container{
+	background-color: #ccccff;
+	text-align: center;	
+}
+#forms{
+	display: inline-block;
+}
+input{
+	margin: 3%;
+}
+tr,td{
+	border: 2px solid black;
+
+}
+
+
